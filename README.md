@@ -5,3 +5,5 @@
 - Me gusta hacer deporte y mantenerme activa. Hago dos tipos de deportes, handball y taekwondo
 - Laburo en un consultorio medico
 - Soy ayudante de SyPN
+
+![foto mia](FotoPerfil.jpg)
